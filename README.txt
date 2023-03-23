@@ -1,6 +1,6 @@
+Contexte de réalisation: Travaux pratiques 
 Création d'une page web.
-
-
+ 
 Nous avons codé ce projet dans l'éditeur de code VSCODE . 
 
 Etant débutante , le projet est assez simple . 
